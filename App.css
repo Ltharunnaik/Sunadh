@@ -1,0 +1,22 @@
+/* css */
+
+.MuiCardContent-root:last-child {
+    padding-bottom: 0px !important;
+}
+
+.txt {
+  font-size: 130px;
+  font-family: "Intro", sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  background: -webkit-linear-gradient(
+    0deg,
+    #ffae00 0%,
+    #fe0056 33%,
+    #e0007a 66%,
+    #8b2ccb 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 8px transparent;
+  color: #000000b6;
+}
