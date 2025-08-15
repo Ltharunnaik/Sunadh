@@ -1,0 +1,13 @@
+.MuiTabs-root{
+    border: 1px solid #fff;
+    border-radius: 30px;
+}
+
+.MuiTabs-indicator{
+    display: none;
+}
+
+.Mui-selected{
+    background-color: #9C9C9C;
+}
+
